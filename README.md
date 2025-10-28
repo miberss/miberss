@@ -15,10 +15,10 @@ Strong interest in scripting, system design, and community-led environments.
 
 ## Projects
 
-- **[CRAFT-8](github.com/miberss/craft-8)**  
+- **[CRAFT-8](https://github.com/miberss/craft-8)**  
   A game creator server for Minecraft.
 
-- **[BOTS](github.com/miberss/bots)**  
+- **[BOTS](https://github.com/miberss/bots)**  
   A fast-paced Cold War roguelike built in Minecraft.
 
 ---
