@@ -25,8 +25,8 @@ Strong interest in scripting, system design, and community-led environments.
 
 ## Experience
 
-- **Moderator** @ *Minekeep*  
-  `2024 – Present`  
+- **Community Ambassador** @ *Minekeep*  
+  `2024 – Present`
   Moderated high-traffic Minecraft servers, enforced rules, handled tickets.
 
 - **Developer** @ *Freelance*  
