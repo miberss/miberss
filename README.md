@@ -4,4 +4,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40miberss-81A1C1?style=flat-square&logo=github)](https://github.com/miberss)
 
 > developer
-> building tooling and gamess for minecraft & skript
+> building tooling and games for minecraft & skript
